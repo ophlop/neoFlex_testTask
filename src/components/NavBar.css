@@ -1,0 +1,91 @@
+.header_bar {
+    position: relative;
+    width: 1140px;
+    height: 60px;
+    top: 0;
+    display:grid;
+    grid-template-columns: 80% 10% 10%;
+    justify-content: space-between;
+    margin: 0 auto 0 auto;
+}
+
+.header_logo {
+    position: absolute;
+    display: grid;
+    grid-row: 1;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #101010;
+    padding-bottom: 20px;
+}
+
+.fav {
+    position: absolute;
+    right: 50px;
+    display: grid;
+    grid-row: 2;
+    width: 22px;
+    height: 20px;
+    top: -38px;
+}
+
+.cart {
+    position: absolute;
+    right: 50px;
+    display: grid;
+    grid-row: 3;
+    width: 24px;
+    height: 24px;
+    top: 20px;
+}
+
+.icon_fav {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    right: 0;
+    display: grid;
+    grid-row: 2;
+}
+.icon_cart {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    right: -40px;
+    display: grid;
+    grid-row: 3;
+}
+.circle-cart {
+    position: absolute;
+    border-radius: 50px;
+    background-color: #FFA542;
+    width: 18px;
+    height: 18px;
+    top: 20%;
+    z-index: 8;
+}
+.circle-fav {
+    position: absolute;
+    border-radius: 50px;
+    background-color: #FFA542;
+    width: 18px;
+    height: 18px;
+    top: -48px;
+    z-index: 8;
+}
+.countNumber {
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #fff; 
+    top: -86%;
+    left: 26%; 
+    z-index: 10;
+}

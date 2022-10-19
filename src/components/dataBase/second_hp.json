@@ -1,0 +1,23 @@
+[
+  {
+    "id": 7,
+    "name": "Apple AirPods",
+    "price": 9527,
+    "rating": 4.7,
+    "photo": "http://t1.gstatic.com/images?q=tbn:ANd9GcSY_8QPU1C5YIjRUzWytpU9KML7Dhv4Ii0Wm27h2jnVM1hsIrlh"
+  },
+  {
+    "id": 8,
+    "name": "GERLAX GH-04",
+    "price": 6527,
+    "rating": 4.7,
+    "photo": "https://static.re-store.ru/upload/resize_cache/iblock/e89/648_824_17f5c944b3b71591cc9304fac25365de2/e890862f76468169855eacf0657cc810.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Apple EarPods",
+    "price": 7527,
+    "rating": 4.7,
+    "photo": "https://bandratesmart.ru/image/cache/catalog/gadzhety/model/besprovodnye-naushniki-borofone-bo4-chernyy_1249035b-228x228.jpg"
+  }
+]

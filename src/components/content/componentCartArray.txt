@@ -1,0 +1,22 @@
+    // const[posts1, setPosts1] = useState([
+    //     {id: 1, name: 'Apple BYZ S852I', price: '2927 ₽', oldPrice: '3527 ₽', rating: 4.7, photo: hp_1},
+    //     {id: 2, name: 'Apple EarPods', price: '2327 ₽', rating: 4.5, photo: hp_2},
+    //     {id: 3, name: 'Apple EarPods', price: '2327 ₽', rating: 4.5, photo: hp_3},
+    //     {id: 4, name: 'Apple BYZ S852I', price: '2927 ₽', rating: 4.7, photo: hp_1},
+    //     {id: 5, name: 'Apple EarPods', price: '2327 ₽', rating: 4.5, photo: hp_2},
+    //     {id: 6, name: 'Apple EarPods', price: '2327 ₽', rating: 4.5, photo: hp_3},
+    //   ])
+
+    //   const[posts2, setPosts2] = useState([
+    //     {name: 'Apple AirPods', price: '9527 ₽', rating: 4.7, photo: hp_4},
+    //     {name: 'GERLAX GH-04', price: '6527 ₽', rating: 4.7, photo: hp_5},
+    //     {name: 'Apple EarPods', price: '7527 ₽', rating: 4.7, photo: hp_6}
+    //   ])
+
+
+    import hp_1 from './content/headphones1.png'
+    import hp_2 from './content/headphones2.png'
+    import hp_3 from './content/headphones3.png'
+    import hp_4 from './content/simplePods.png'
+    import hp_5 from './content/proPods.png'
+    import hp_6 from './content/blackPods.png'

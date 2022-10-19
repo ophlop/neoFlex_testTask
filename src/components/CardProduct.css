@@ -1,0 +1,128 @@
+.card_block {
+  position: relative;
+  display: inline-block;
+  width: 350px;
+  height: 410px;
+  border-radius: 30px;
+  background-color: #fff;
+  left: 1.5em;
+  margin: 0 0 30px 30px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+.grid_card {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: auto auto auto;
+  grid-column-gap: 0;
+  grid-row-gap: 0;
+}
+
+.titlePicture {
+  width: 220px;
+  height: 240px;
+  position: relative;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 14px;
+  margin-bottom: 20px;
+  object-fit: contain;
+}
+
+.titleName {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 21px;
+  position: relative;
+  display: grid;
+  grid-row: 1;
+  grid-column: 1;
+  margin-bottom: 0;
+  margin-left: 22px;
+  padding-bottom: 0;
+}
+
+.rating {
+  position: relative;
+  margin-left: 22px;
+  display: grid;
+  grid-row: 2;
+  grid-column: 1;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  vertical-align: middle;
+}
+
+.star {
+  position: relative;
+  display: inline-block;
+  margin: 0 10px 0 0;
+  padding: 0;
+  width: 24px;
+  height: 22px;
+  align-items: center;
+}
+
+.ratingGrade {
+  position: relative;
+  display: inline-block;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 21px;
+  color: #838383;
+  top: -4px;
+}
+
+.buyBtn {
+  border: 0;
+  background-color: transparent;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 21px;
+  cursor: pointer;
+  position: relative;
+  display: grid;
+  grid-row: 3;
+  grid-column: 2;
+  margin-left: 66px;
+  width: 100px;
+  height: 100px;
+  top: -16px;
+}
+
+.price {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 21px;
+  color: #ffa542;
+  display: grid;
+  grid-row: 1;
+  grid-column: 2;
+  margin-left: 90px;
+  margin-bottom: 0;
+}
+
+.oldPrice {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  text-decoration-line: line-through;
+  color: #ffce7f;
+  display: grid;
+  grid-row: 2;
+  grid-column: 2;
+  position: relative;
+  margin-left: 104px;
+  margin-top: 0;
+}

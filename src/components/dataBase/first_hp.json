@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Apple BYZ S852I",
+    "price": 2927,
+    "oldPrice": 3527,
+    "rating": 4.7,
+    "photo": "https://technextmobiles.com/wp-content/uploads/2019/03/TECHA173.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Apple EarPods",
+    "price": 2327,
+    "rating": 4.5,
+    "photo": "https://mtscdn.ru/upload/iblock/738/A0405_101621.jpg/resize/844x726/"
+  },
+  {
+    "id": 3,
+    "name": "Apple EarPods",
+    "price": 2327,
+    "rating": 4.5,
+    "photo": "https://v2.partsdirect.ru/goods/good_big_pics/691864.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Apple BYZ S852I",
+    "price": 2927,
+    "rating": 4.7,
+    "photo": "https://technextmobiles.com/wp-content/uploads/2019/03/TECHA173.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Apple EarPods",
+    "price": 2327,
+    "rating": 4.5,
+    "photo": "https://mtscdn.ru/upload/iblock/738/A0405_101621.jpg/resize/844x726/"
+  },
+  {
+    "id": 6,
+    "name": "Apple EarPods",
+    "price": 2327,
+    "rating": 4.5,
+    "photo": "https://v2.partsdirect.ru/goods/good_big_pics/691864.jpg"
+  }
+]

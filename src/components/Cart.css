@@ -1,0 +1,97 @@
+.title {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+}
+.headphones {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 24px;
+  margin-left: 2.5em;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.firstBlock {
+  width: 1200px;
+  position: relative;
+  margin: 28px auto 0 auto;
+}
+
+.gridBlock {
+  display: grid;
+  grid-template-columns: 348px 350px;
+  grid-column-gap: 128px;
+  grid-row-gap: 30px;
+  width: 1110px;
+  height: fit-content;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto 0 auto;
+}
+
+.CartCheck {
+  width: 348px;
+  height: 114px;
+  top: 11%;
+  left: 59%;
+  background-color: #fff;
+  background: #ffffff;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
+  position: fixed;
+}
+
+.CartSubmit {
+  width: 350px;
+  height: 65px;
+  border-radius: 20px;
+  margin-top: 0px;
+  background-color: #000;
+  color: #fff;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 21px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.resultWord,
+.priceToPay {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  color: #000000;
+  display: inline;
+  position: relative;
+}
+
+.resultWord {
+  text-align: left;
+  margin-right: 200px;
+  margin-left: 18px;
+}
+
+.priceToPay {
+  text-align: right;
+}
+
+.topBlock {
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+
+.block {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100px;
+}
